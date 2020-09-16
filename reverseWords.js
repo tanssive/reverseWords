@@ -8,5 +8,3 @@ function reverseWords(str) {
     return final.join(' ');
   }
 
-console.log(reverseWords('Some string qwerty'));
-
